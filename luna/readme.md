@@ -6,7 +6,7 @@ This design is based on GH80-3003/GH80-3000. which is a universal board supporti
 ## Board info
 - MCU: ATMEGA32U4
 - Firmware: QMK (configured for Luna)
-- Manual soldering needed: 3 LEDs and a USB B port
+- Manual soldering needed: 3 LEDs, 108 Cherry MX style switches and a USB B port
 
 ## Version info
 
