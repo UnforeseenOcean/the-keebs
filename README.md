@@ -1,4 +1,4 @@
-# the-keebs
+# The Keebs
 My questionable keyboard designs
 
 ## Wait, why are some folders empty?
