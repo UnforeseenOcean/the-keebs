@@ -1,5 +1,5 @@
 # Mako
-Mako is an ErgoDox clone modified to be easier to make by substituting few keys with stabilizer-less size, with speakers and pair of LEDs. It has ANSI layout.
+Mako is an ErgoDox clone modified to be easier to make by substituting few keys with stabilizer-less size, with speakers and pair of LEDs. It has "ANSI" layout.
 
 ## Board info
 - MCU: ATMEGA32U4
