@@ -9,6 +9,10 @@ If you were interested in the future designs, I am so sorry to disappoint you. T
 
 - Toby
 
+No support will be provided, and all the files are provided so you can learn from my mistakes.
+
+**Note: Included libraries follow the respective licenses, and are NOT in public domain.**
+
 The original text for the readme file can be seen below.
 
 ## Wait, why are some folders empty?
