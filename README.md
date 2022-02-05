@@ -23,6 +23,7 @@ I understand that my designs are not attractive. They're not anything unique. It
 But, Luna is different. I've built it so it will work. It's a very simple keyboard that is full-size, with no frills. No bells and whistles either. It's a thing that works. While you really should be looking for something else if you want:
 - Beautiful keyboard (Such as Edda)
 - Interesting keyboard (foone's Physics Keyboard, for example)
+
 You could use Luna for something.
 
 Let me tell you the story behind Luna. I've been having insomnia, as well as whatever waking up too early is called. I've been depressed, I've been s uicidal. Luna was a cat. While she was a street cat who would've already forgotten me by now, she gave me hope to continue. Then I was introduced to the world of custom keyboards. I was amazed at what people can do with just some diodes, switches and some chips, and I wanted to try it myself. I've named the "early wake-up ghost" Luna (since I couldn't find her anymore), and I decided to name the first ever keyboard with her name, with hope that someone, somewhere will remember my design. Just like the tabby who loved humans.
